@@ -38,5 +38,5 @@ make clean
 ---
 **Autor**: Juan David Daza Caro  
 **Materia**: Sistemas Operativos  
-**Docente**: John Corredor PhD.https://github.com/Siftings/laboratorioOpenMP.git
+**Docente**: John Corredor PhD.
 **Universidad**: Pontificia Universidad Javeriana
